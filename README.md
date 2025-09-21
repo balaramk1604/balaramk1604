@@ -41,7 +41,7 @@ Transforming ideas into intelligent solutions through the power of **Artificial 
 🔹 [Voice-Based Digital Payment System](#) – *Developed a hands-free payment solution using AI & voice recognition*  
 🔹 [House Price Prediction](#) – *Built an ML model to predict house prices based on key features*  
 
-*(You can link your GitHub repos here once uploaded)*  
+ 
 
 ---
 
@@ -84,4 +84,4 @@ Transforming ideas into intelligent solutions through the power of **Artificial 
 - 📱 Contact: +91 9392761604  
 
 
-⭐ *“Code, Learn, and Build the Future with AI!”*  
+ 
