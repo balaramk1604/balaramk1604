@@ -55,14 +55,13 @@ Transforming ideas into intelligent solutions through the power of **Artificial 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAMANA994961&show_icons=true&theme=tokyonight" alt="Balaram's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAMANA994961&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=balaramk1604&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balaramk1604&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAMANA994961&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=balaramk1604&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-
 ---
 
 
@@ -80,7 +79,7 @@ Transforming ideas into intelligent solutions through the power of **Artificial 
 
 - 📧 [Email](mailto:nandukokkiligadda@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/balaram-kokkiligadda-726a5528b)  
-- 💻 [GitHub](https://github.com/RAMANA994961)  
+- 💻 [GitHub](https://github.com/balaramk1604)  
 - 📱 Contact: +91 9392761604  
 
 
