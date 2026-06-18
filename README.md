@@ -40,8 +40,7 @@ Transforming ideas into intelligent solutions through the power of **Artificial 
 ## 🚀 Projects  
 🔹 [Voice-Based Digital Payment System](#) – *Developed a hands-free payment solution using AI & voice recognition*  
 🔹 [House Price Prediction](#) – *Built an ML model to predict house prices based on key features*  
-🔹 [AI Telecom Fraud Detection System](#) – *Developed a machine learning model to detect fraudulent telecom activities and identify                               suspicious                                    usage patterns*
- 
+🔹 [AI Network Fault Prediction System](#) – *Built a machine learning model to predict telecom network faults, achieving high prediction accuracy and reducing false-positive alerts*
 
 ---
 
